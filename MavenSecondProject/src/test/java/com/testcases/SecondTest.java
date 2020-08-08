@@ -6,6 +6,7 @@ public class SecondTest {
 
 	@Test(groups = "smoke")
 	public void tc_4() {
+		System.out.println("ADDED ");
 		System.out.println("Fourth Test case");
 	}
 	
