@@ -6,6 +6,7 @@ public class FirstTest {
 
 	@Test(groups = "smoke")
 	public void tc_1() {
+		System.out.println("Added New Line");
 		System.out.println("First Test case");
 	}
 	
